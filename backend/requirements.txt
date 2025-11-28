@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+python-multipart
+
+opencv-python
+mediapipe
+numpy
+pillow
+
+torch
+torchvision
+
+openai
+tqdm
+
+scikit-learn
+
+# optional but recommended
+python-dotenv
